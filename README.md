@@ -1,5 +1,7 @@
 # Downloads example
 
+This repo has KT (test) prep content and analyzes on particular async example in this README.
+
 ## Output from the Exercise
 
 ```
